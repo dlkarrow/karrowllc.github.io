@@ -1,0 +1,7 @@
+_site
+.bundle
+vendor/bundle
+*.swp
+.idea
+Gemfile
+Gemfile.lock
